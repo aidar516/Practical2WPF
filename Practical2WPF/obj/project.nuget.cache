@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zdFPQ0mGYKbhgsmD7vzv/6b0uaNjhnMMxArX5DL8BlQ1y+aAGDew45LH3ygS/V9jN1slOeDFt4PCBUah8WQkFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valiu\\source\\repos\\C#\\Practical2WPF\\Practical2WPF\\Practical2WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valiu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
